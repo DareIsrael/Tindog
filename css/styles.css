@@ -37,8 +37,8 @@ h1{
 
 .nav-item{
     padding: 0 18px;
-    
-}
+} 
+
 
 .download-button{
     margin: 5% 3% 5% 0%;
@@ -108,14 +108,18 @@ h1{
 }
 
 #press{
-    background-color: #ef8172;
+    background-color: white;
     text-align: center;
     padding-bottom: 3%;
+    margin-top: 5%;
 }
 
 .press-logo{
     width: 15%;
     margin: 20px 20px 50px;
+}
+.nav-item {
+    color: red;
 }
 
 
@@ -158,15 +162,15 @@ h1{
     #footer p {
         font-size: 25px;
     }
-    .col-lg-6 button {
+     .col-lg-6 button {
         width: 250px;
         height: 100px;
-    }
-    .navbar-toggler-icon {
+    } 
+     .navbar-toggler-icon {
         width: 60px;
         height: 60px;
-        font-weight: 1000;
-    }
+        
+    } 
     .col-lg-6 .btn {
         font-size: 33px;
         font-weight: 1000;
@@ -181,10 +185,7 @@ h1{
         color: #ff4c68;
     }
 }
-#press {
-    background-color: #fff;
-    margin-top: 5%;
-}
+
 
 #cta{
     background-color: #ff4c68;
