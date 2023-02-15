@@ -118,6 +118,7 @@ h1{
     margin: 20px 20px 50px;
 }
 
+
 @media(max-width: 1028px){
      
     #title{
@@ -161,6 +162,28 @@ h1{
         width: 250px;
         height: 100px;
     }
+    .navbar-toggler-icon {
+        width: 60px;
+        height: 60px;
+        font-weight: 1000;
+    }
+    .col-lg-6 .btn {
+        font-size: 33px;
+        font-weight: 1000;
+        color: white;
+    }
+    #cta .btn {
+        font-size: 40px;
+
+    }
+    .container-fluid a {
+        
+        color: #ff4c68;
+    }
+}
+#press {
+    background-color: #fff;
+    margin-top: 5%;
 }
 
 #cta{
